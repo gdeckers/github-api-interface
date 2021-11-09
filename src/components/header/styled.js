@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   display: flex;
-  width: 100%;
+  width: 70%;
   justify-content: space-between;
   padding: 4px;
 
@@ -16,13 +16,13 @@ export const Wrapper = styled.div`
   }
 
   button {
-    background-color: #225ed8;
+    background-color: #FFA500;
     padding: 8px 16px;
     margin: 0 16px;
     border-radius: 8px;
 
     &:hover {
-      background-color: #2c5282;
+      background-color: #FF8C00	;
       box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
     }
 
