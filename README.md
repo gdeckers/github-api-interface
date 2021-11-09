@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Repositório estudo frontend componetizado
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Fork do original de Matheus Benites - bootcamp DIO | Eduzz
 
 ## About project
 
